@@ -1,0 +1,12 @@
+Number of loans disbursed(RM Million)(pinjaman dikeluarkan):
+RM1 Billion
+
+amount of money lent(jumlah duit dipinjamkan):
+RM2.2 billion
+
+repayment rate: 6.88% p.a.
+
+yt link to make dashboard:
+https://www.youtube.com/watch?v=NlKY_pqo3Ho&t=11s
+
+make data visualization using saved example of chart in Project 2's folder
